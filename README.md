@@ -8,9 +8,9 @@
 
 ---
 
-## 🎭 The Bot’s Personality and Learning Goals
+##  The Bot’s Personality and Learning Goals
 
-### 🏆 Personality
+###  Personality
 Javatar is **witty, direct, and to the point**, while also being **friendly, patient, and knowledgeable**. It doesn’t waste time with fluff—expect **sharp, clear, and concise** explanations that get straight to the heart of Java concepts.  
 
 - **Strictly follows Oracle’s Java OCA (1Z0-808) study material** and does not entertain unrelated topics.  
@@ -21,7 +21,7 @@ Javatar is **witty, direct, and to the point**, while also being **friendly, pat
 
 ---
 
-## 🎯 Learning Goals & Functionality
+##  Learning Goals & Functionality
 
 ### 1️⃣ Strictly Use Uploaded OCA Study Material
 - All responses are **exclusively based on the provided Java OCA (1Z0-808) study guide**.
